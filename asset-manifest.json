@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-With-GitHubPages-One-Test/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/React-With-GitHubPages-One-Test/static/js/main.9c705a23.chunk.js",
+    "main.js.map": "/React-With-GitHubPages-One-Test/static/js/main.9c705a23.chunk.js.map",
+    "runtime-main.js": "/React-With-GitHubPages-One-Test/static/js/runtime-main.9cc666f9.js",
+    "runtime-main.js.map": "/React-With-GitHubPages-One-Test/static/js/runtime-main.9cc666f9.js.map",
+    "static/js/2.fc2f5c74.chunk.js": "/React-With-GitHubPages-One-Test/static/js/2.fc2f5c74.chunk.js",
+    "static/js/2.fc2f5c74.chunk.js.map": "/React-With-GitHubPages-One-Test/static/js/2.fc2f5c74.chunk.js.map",
+    "index.html": "/React-With-GitHubPages-One-Test/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/React-With-GitHubPages-One-Test/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.fc2f5c74.chunk.js.LICENSE.txt": "/React-With-GitHubPages-One-Test/static/js/2.fc2f5c74.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-With-GitHubPages-One-Test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cc666f9.js",
+    "static/js/2.fc2f5c74.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.9c705a23.chunk.js"
+  ]
+}
